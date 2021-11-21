@@ -101,12 +101,11 @@ ul {
 
 .form-control {
 	border: none;
-	background-color: #ebf3f5;
+	background-color: #f0f0f0;
 	box-shadow: 2px 2px 7px #ccc, -2px -2px 7px #fff;
 }
 
 .form-control:focus {
-	background-color: #ebf3f5;
 	box-shadow: 2px 2px 7px #ccc, inset 1px 1px 3px #ddd;
 }
 
