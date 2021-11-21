@@ -95,13 +95,6 @@ ul {
 	font-weight: 600;
 }
 
-.carousel-caption {
-	margin-bottom: 15rem;
-	visibility: hidden;
-	color: #fff;
-	text-shadow: 2px 2px 5px #333, -2px -2px 5px #333;
-}
-
 .navbar-toggler i {
 	color: #22577a;
 }
@@ -146,9 +139,13 @@ ul {
 	background-color: #ededed;
 }
 
+.carousel-caption {
+	margin-bottom: 15rem;
+	color: #fff;
+	text-shadow: 2px 2px 5px #333, -2px -2px 5px #333;
+}
+
 #hero:hover .carousel-caption {
-	display: block;
-	visibility: visible;
 	filter: brightness(100%);
 }
 
