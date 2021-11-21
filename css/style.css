@@ -116,13 +116,12 @@ ul {
 }
 
 .btn-neumor {
-	background-color: #ebf3f5;
+	background-color: #f0f0f0;
 	box-shadow: 2px 2px 7px #ccc, -2px -2px 7px #ccc;
 }
 
 .btn-neumor:hover,
 .btn-neumor:active {
-	background-color: #ebf3f5;
 	box-shadow: 2px 2px 7px #ccc, inset 1px 1px 5px #aaa;
 }
 
